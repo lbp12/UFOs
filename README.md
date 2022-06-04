@@ -2,8 +2,8 @@
 ## Overview
 An analysis of UFO sightings, while creating filters to filter multiple criteria at the same time.</br>
 ## Results
-To best analyze UFO sightings this web page includes mulitple filters - date, city, state, country, and shape. This will allow better sorting of data and provide more in-depth analysis. The "Filter Search" is found near the bottom of the page. A user will be able to use any filter to further narrow down their search, as seen in image 2. 
-![filter_table]()</br>
+To best analyze UFO sightings this web page includes mulitple filters - date, city, state, country, and shape. This will allow better sorting of data and provide more in-depth analysis. The "Filter Search" is found near the bottom of the page. A user will be able to use any filter to further narrow down their search, as seen in image 2.</br>
+![filter_table](https://github.com/lbp12/UFOs/blob/main/static/images/filter_table.png)</br>
 *The "Filter Seach".*</br>
 ![filtered_table]()</br>
 *The filtered table as shown by filtering "tx".*</br>
